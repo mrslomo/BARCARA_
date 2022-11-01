@@ -1,13 +1,15 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
+  "name": "BARCARA_",
+  "theme": "บาคาร่า , 789KM บาคาร่า เล่นบาคาร่าเล่นได้ 24 ชั่วโมง",
   "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "description": "บาคาร่า , 789KM บาคาร่า เล่นบาคาร่าเล่นได้ 24 ชั่วโมง",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "บาคาร่า",
+    "SA",
+    "เล่นบาคาร่า",
+    "บาคาร่าเว็บตรง"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/BARCARA_.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
